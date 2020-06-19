@@ -7,7 +7,7 @@
         "json-api",
         "realpage"
     ],
-    "homepage": "https://github.com/realpage/json-api-for-lumen",
+    "homepage": "https://tfs.realpage.com/tfs/Realpage/SpendAndAccounting/_git/json-api-for-lumen",
     "license": "MIT",
     "require": {
         "php": "^7.0",
