@@ -4,6 +4,11 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 Updates follow the [Keep a CHANGELOG](http://keepachangelog.com/) principles.
 
+## [1.5.0] - 2020-06-29
+### Updated
+- Requires Laravel/Lumen 7.x
+- Requires PHP 7.2.5
+
 ## [1.4.2] - 2020-06-29
 ### Updated
 - Requires Laravel/Lumen 5.8
