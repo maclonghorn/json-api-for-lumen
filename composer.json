@@ -1,5 +1,5 @@
 {
-    "name": "realpage/json-api-for-lumen",
+    "name": "maclonghorn/json-api-for-lumen",
     "type": "library",
     "description": "Lumen helpers to help ease implementation of json-api standards",
     "keywords": [
@@ -7,7 +7,7 @@
         "json-api",
         "realpage"
     ],
-    "homepage": "https://tfs.realpage.com/tfs/Realpage/SpendAndAccounting/_git/json-api-for-lumen",
+    "homepage": "https://github.com/maclonghorn/json-api-for-lumen/tree/v1.5.0",
     "license": "MIT",
     "require": {
         "php": "^7.2.5",
